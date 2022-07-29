@@ -18,7 +18,7 @@ __DISCLAIMER:-__ YOU DO NOT HAVE TO BE A SPARTAN TO CONQUER AZURE!!!
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jglepp5s5cz0u6cl0tg6.png) |
 | --------- |
   
-| __This Certification is the First Logical step towards Cloud Adoption and this is where the Problem begins as rightly Illustrated :-) |
+| __This Certification is the First Logical step towards Cloud Adoption and this is where the Problem begins as rightly Illustrated :-)__ |
 | --------- |
 
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/amp303edmywr357hx5v6.jpg) |
