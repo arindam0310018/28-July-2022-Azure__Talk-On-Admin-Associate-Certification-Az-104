@@ -51,7 +51,7 @@ __DISCLAIMER:-__ YOU DO NOT HAVE TO BE A SPARTAN TO CONQUER AZURE!!!
  
 | __TOPIC#2: IMPLEMENT AND MANAGE STORAGE:-__ |
 | --------- |
-| THIS IS EXACTLY AND THE ONLY WAY TO STORE DATA IN CLOUD :-)__ |
+| THIS IS EXACTLY AND THE ONLY WAY TO STORE DATA IN CLOUD :-) |
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/26j5s64xlkkmt5rthtwf.jpg) |
 | __Things you will learn:__ Configure Storage Accounts, Blob Storage, Security, Azure Files and File Sync, Storage Tools, and Controlled Access to Storage. |
 | WE ARE ACTUALLY MORE CONCERNED ABOUT OUR DATA DURING THUNDERSTORMS :-) |
