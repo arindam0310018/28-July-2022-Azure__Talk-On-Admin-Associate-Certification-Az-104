@@ -12,13 +12,6 @@ The Intention of this Blog Post is to Provide Information on AZ-104 Certificatio
 | Duration of My Demo = __23 Mins 05 Secs__ |
 | Start and End Time = __01:23:00 to 01:46:05__ |
 
-{% youtube aul5P5shtQE %}
-
-
-| __PRESENTATION DISPLAYED DURING LIVE DEMO:-__ |
-| --------- |
-| {% github arindam0310018/28-July-2022-Azure__Talk-On-Admin-Associate-Certification-Az-104 %} |
-
 
 __DISCLAIMER:-__ YOU DO NOT HAVE TO BE A SPARTAN TO CONQUER AZURE!!!
 
