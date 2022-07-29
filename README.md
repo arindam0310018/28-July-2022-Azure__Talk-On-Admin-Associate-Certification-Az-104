@@ -12,6 +12,8 @@ The Intention of this Blog Post is to Provide Information on AZ-104 Certificatio
 | Duration of My Demo = __23 Mins 05 Secs__ |
 | Start and End Time = __01:23:00 to 01:46:05__ |
 
+| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aul5P5shtQE/0.jpg)](https://www.youtube.com/watch?v=aul5P5shtQE) |
+| --------- |
 
 __DISCLAIMER:-__ YOU DO NOT HAVE TO BE A SPARTAN TO CONQUER AZURE!!!
 
